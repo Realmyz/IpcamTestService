@@ -1,0 +1,10 @@
+<update>
+	<version>2</version>
+	<name>IpCamTest2.0</name>
+	<url>https://raw.githubusercontent.com/Realmyz/IpcamTestService/master/IPCamTest-release.apk</url>
+	<information>
+	1.更新了进度条样式
+	2.增强了应用的安全性
+	3.解决了闪退和添加了更新信息等功能
+	</information>
+</update>
